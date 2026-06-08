@@ -132,33 +132,11 @@ Responsive e-commerce platform with modern UI and seamless shopping experience.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Venkata-Harika09&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Harika09&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkata-Harika09&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Venkata-Harika09&theme=tokyonight&margin-w=15"/>
 
 </div>
 
