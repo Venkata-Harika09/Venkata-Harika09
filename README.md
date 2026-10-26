@@ -1,16 +1,16 @@
 # Hi there, I'm Harika 👋
 
-\<div align="center">
+<div align="center">
 
 ### 🎓 Computer Science Engineering Student | 🤖 AI & ML Enthusiast | 🛡️ AI Security Researcher | 💻 Software Developer
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Graph-Based+AI+Agent+Attack+Detection;Building+Intelligent+Cybersecurity+Systems;Open+to+Internships+and+Opportunities;Always+Learning+New+Technologies](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Graph-Based+AI+Agent+Attack+Detection;Building+Intelligent+Cybersecurity+Systems;Open+to+Internships+and+Opportunities;Always+Learning+New+Technologies)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Graph-Based+AI+Agent+Attack+Detection;Building+Intelligent+Cybersecurity+Systems;Open+to+Internships+and+Opportunities;Always+Learning+New+Technologies" alt="Animated typing introduction" />
 
-\<br/>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Venkata-Harika09&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-
-\</div>
+</div>
 
 ---
 
@@ -20,10 +20,10 @@
 name      : Boddupalli Venkata Harika
 alias     : Venkata-Harika09
 role      : B.Tech CSE Student @ Sri Vasavi Engineering College
-interests : AI/ML · Backend Development · Data Structures & Algorithms · Software Development 
-project   : Graph-Based Detection of Coordinated Autonomous AI Agent Attacks
+interests : AI/ML · Backend Development · DSA · Software Development
+major     : Graph-Based Detection of Coordinated Autonomous AI Agent Attacks
 building  : Intelligent AI Security & Threat Detection Systems
-status    : Open to Internships & Full Time Opportunities
+status    : Open to Internships & Full-Time Opportunities
 ```
 
 ---
@@ -32,11 +32,11 @@ status    : Open to Internships & Full Time Opportunities
 
 ### 🧠 Graph-Based Detection of Coordinated Autonomous AI Agent Attacks
 
-My project focuses on detecting coordinated malicious behavior among autonomous AI agents using graph-based analysis.
+My major project focuses on detecting coordinated malicious behavior among autonomous AI agents using graph-based analysis.
 
-As AI agents become increasingly autonomous and interconnected, identifying coordinated attacks, suspicious interactions, and malicious behavioral patterns becomes an important cybersecurity challenge.
+As AI agents become increasingly autonomous and interconnected, identifying coordinated attacks, suspicious interactions, and malicious behavioral patterns is an important cybersecurity challenge.
 
-The project aims to represent agent interactions as graphs and analyze their relationships to identify potentially coordinated attack patterns, suspicious communication structures, and anomalous behavior.
+The project explores representing agent interactions as graphs and analyzing their relationships to identify potentially coordinated attack patterns, suspicious communication structures, and anomalous behavior.
 
 **Core Research Areas**
 
@@ -47,9 +47,9 @@ The project aims to represent agent interactions as graphs and analyze their rel
 - AI Agent Security and Threat Intelligence
 - Explainable Detection of Potential Attacks
 
-**Goal:** Explore graph-based techniques for identifying coordinated attacks in autonomous AI agent environments and improving the security of multi-agent systems.
+**Goal:** Explore graph-based techniques to identify coordinated attacks in autonomous AI agent environments and improve the security of multi-agent systems.
 
-**Tech Stack:** Update this section with the actual technologies used in your implementation.
+**Tech Stack:** Add the specific technologies and graph algorithms used in your implementation as the project develops.
 
 ---
 
@@ -110,7 +110,7 @@ A secure Retrieval-Augmented Generation chatbot that provides context-aware resp
 
 ### 🧭 NavGuide Chatbot
 
-An AI-powered tourism and navigation assistant that helps travelers explore destinations and find useful routes and local attractions.
+An AI-powered tourism and navigation assistant that helps travelers explore destinations and discover useful routes and local attractions.
 
 **Features**
 
@@ -126,7 +126,7 @@ An AI-powered tourism and navigation assistant that helps travelers explore dest
 
 ### 🛒 E-Commerce Website
 
-A responsive e-commerce platform built to provide a clean user interface and a smooth shopping experience.
+A responsive e-commerce platform designed to provide a clean user interface and a smooth shopping experience.
 
 **Features**
 
@@ -139,51 +139,51 @@ A responsive e-commerce platform built to provide a clean user interface and a s
 
 ---
 
-## tech_stack.json
+## 💻 tech_stack.json
 
-### 💻 Programming Languages
+### Programming Languages
 
-\<p align="center">
-\<img src="[https://skillicons.dev/icons?i=python,java,js,html,css,mysql](https://skillicons.dev/icons?i=python,java,js,html,css,mysql)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" alt="Python, Java, JavaScript, HTML, CSS and MySQL" />
+</p>
 
 ### 🤖 AI & Machine Learning
 
-\<p align="center">
-\<img src="[https://skillicons.dev/icons?i=tensorflow,pytorch](https://skillicons.dev/icons?i=tensorflow,pytorch)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow and PyTorch" />
+</p>
 
 ### ⚙️ Backend & Frameworks
 
-\<p align="center">
-\<img src="[https://skillicons.dev/icons?i=flask,fastapi](https://skillicons.dev/icons?i=flask,fastapi)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Flask and FastAPI" />
+</p>
 
 ### 🧰 Tools & Platforms
 
-\<p align="center">
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,linux](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Git, GitHub, VS Code, Postman and Linux" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Venkata-Harika09&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=Venkata-Harika09\&theme=tokyonight)" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkata-Harika09&theme=tokyonight" alt="GitHub Contribution Streak" />
 
-\</div>
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Venkata-Harika09&theme=tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=Venkata-Harika09\&theme=tokyo-night)" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkata-Harika09&theme=tokyo-night" alt="GitHub Activity Graph" />
 
-\</div>
+</div>
 
 ---
 
@@ -212,25 +212,27 @@ A responsive e-commerce platform built to provide a clean user interface and a s
 
 ## 📫 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://www.linkedin.com/in/venkata-harika-boddupalli-8a82b32b9/](https://www.linkedin.com/in/venkata-harika-boddupalli-8a82b32b9/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
+<a href="https://www.linkedin.com/in/venkata-harika-boddupalli-8a82b32b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
 
-\<a href="bvharika0906\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-\</a>
+<a href="mailto:bvharika0906@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+</a>
 
-\<a href="[https://github.com/Venkata-Harika09](https://github.com/Venkata-Harika09)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+<a href="https://github.com/Venkata-Harika09">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
+</a>
 
-\</div>
+</div>
 
 ---
 
 ## > philosophy.txt
 
-```bash
+```text
 Keep learning.
 Keep building.
 Keep improving.
@@ -243,5 +245,10 @@ Technology becomes meaningful
 when it solves real-world problems.
 ```
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
+### ⭐ Thanks for visiting my profile!
+
+**Let's connect, collaborate, and build something impactful. 🚀**
+
+</div>
